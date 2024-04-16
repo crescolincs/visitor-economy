@@ -25,7 +25,7 @@ investmentopportunity:
    - icon: 'connectivity.svg'
      title: 'Transport Connectivity'
      description: 'Easily accessible from major population centres'
-   - icon: 'challenger-icon.svg'
+   - icon: 'destination-icon.svg'
      title: 'Challenger Destination'
      description: 'A powerful visitor proposition aligned closely with key growth segments.'           
    - icon: 'cost-icon.svg'
