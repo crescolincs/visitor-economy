@@ -83,7 +83,7 @@ offerfeatures:
   display: true
   features:
    - heading: Lincolnshire’s Visitor Economy Growth
-     image: lincoln-castle.jpg
+     image: visitor-economy-1.jpg
      lead: >-
           Recent growth in Lincolnshire’s visitor economy has reflected the attractiveness of the region’s offer and the rising popularity of domestic tourism among UK residents, presenting investment and growth opportunities for businesses across the sector.
      body: >-
@@ -95,7 +95,7 @@ offerfeatures:
      ctatext: about Lincolnshire's Visitor Economy growth  
 
    - heading: Great Britain’s Growing Domestic Tourism Market
-     image: lincoln-castle.jpg
+     image: visitor-economy-2.jpg
      lead: >-
            In the immediate pre-pandemic period, Great Britain’s (GB) domestic tourism sector saw growth across categories including overnight trips, holidays, VFR (visiting friends and relatives), and business.
      body: >-
@@ -106,7 +106,7 @@ offerfeatures:
      ctatext: about Great Britain’s growing domestic tourism market 
 
    - heading: Lincolnshire - A Rising Challenger Destination
-     image: lincoln-castle.jpg
+     image: visitor-economy-6.jpg
      lead: >-
            Lincolnshire is a rising challenger destination in Great Britain’s visitor economy. The area’s powerful visitor proposition aligns closely with key growth segments, creating profitable opportunities for companies across the sector.
      body: >-
@@ -119,7 +119,7 @@ offerfeatures:
      ctatext: about Lincolnshire - a rising visitor destination 
 
    - heading: Lincolnshire’s Visitor Economy Growth Drivers
-     image: lincoln-castle.jpg
+     image: visitor-economy-4.jpg
      lead: >-
            Multiple factors are driving the growth of Lincolnshire’s visitor economy, including major investments in attractions and infrastructure; strategic government funding and support; a diverse events programme; and the area’s thriving education and industrial sectors.
      body: >-
@@ -136,7 +136,7 @@ offerfeatures:
      ctatext: about Lincolnshire’s visitor economy growth drivers 
      
    - heading: Lincolnshire’s Visitor Economy Strategy - Supporting Sector Growth
-     image: lincoln-castle.jpg
+     image: visitor-economy-5.jpg
      lead: >-
            Greater Lincolnshire’s regional, local government and tourism sector organisations are working as an integrated team to grow visitor numbers and create a profitable, low-risk environment for investing businesses.
      body: >-
@@ -151,7 +151,7 @@ offerfeatures:
      ctatext: about Lincolnshire’s visitor economy strategy for growth      
 
    - heading: Opportunities for Investors in Lincolnshire's Visitor Economy
-     image: lincoln-castle.jpg
+     image: visitor-economy-3.jpg
      lead: >-
            For investing visitor economy businesses, Lincolnshire presents profitable growth opportunities across a range of areas including hotels, pubs, other accommodation, attractions, and services.
      body: >-
@@ -166,7 +166,7 @@ offerfeatures:
            - **Restaurants and Cafes:** With significant ongoing, strategic investment in market towns, infrastructure and visitor attractions, Lincolnshire presents opportunities for businesses to invest in restaurants and cafes across the area.
      ctatext: about visitor economy investment opportunities in Lincolnshire 
    - heading: Lincolnshire’s Location & Transport Connectivity
-     image: lincoln-castle.jpg
+     image: visitor-economy-7.jpg
      lead: >-
            Greater Lincolnshire benefits from a central England location and excellent transport connectivity, making it easily accessible from England’s major population centres.
      body: >-
@@ -225,7 +225,7 @@ sectorCTA:
   headingcolor: light
   buttoncolor: '#e75a13'
   buttonhover: '#af0000'
-  image: adv-eng-manu-brochure.png
+  image: visitor-economy-brochure.png
   heading: Get the Data on Lincolnshire as a Visitor Economy Business Location
   lead: >-
      Lincolnshire’s Visitor Economy sector Business Location Guide provides essential information and data for companies researching and evaluation Lincolnshire as a potential investment location, including:                                       
