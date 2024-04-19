@@ -109,7 +109,7 @@ offerfeatures:
    - heading: Lincolnshire’s Visitor Economy Growth Drivers
      image: visitor-economy-4.jpg
      lead: >-
-           Multiple factors are driving Lincolnshire’s visitor economy growth, including large-scale investments, government funding, a diverse events programme; and the area’s thriving education and industrial sectors.
+           Multiple factors are driving Lincolnshire’s visitor economy growth, including large-scale investments, government funding, a diverse events programme, and the area’s thriving education and industrial sectors.
      body: >-
            - Recent years have seen multi-million pound investments in Lincolnshire’s visitor economy, with more than £50 million spent on four leading attractions alone. 
   
@@ -218,12 +218,13 @@ sectorCTA:
      Lincolnshire’s Visitor Economy sector Business Location Guide provides essential information and data for companies researching and evaluation Lincolnshire as a potential investment location, including:                                       
   brochurecontents:
     - highlight: The market opportunity
-    - highlight: Industry clusters
-    - highlight: Research & technology
-    - highlight: Workforce, education & skills
-    - highlight: Sites and properties
+    - highlight: Market and growth data
+    - highlight: Destination cost comparisons
+    - highlight: Visitor economy growth drivers
+    - highlight: Lincolnshire’s Tourism Action Plan
+    - highlight: Opportunities for investors
+    - highlight: Lincolnshire’s location & connectivity
     - highlight: UK and global market access
-    - highlight: Location & sector data sets
     - highlight: Support for investing businesses
   contentscolour: 'text-white'
   footerimg: red-half-grad.png 
