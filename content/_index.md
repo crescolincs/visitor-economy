@@ -43,21 +43,21 @@ investmentopportunity:
              
 marketopportunity:
   display: true
-  heading: "The UK Visitor Economy Market Opportunity"
-  lead: "The UK’s Visitor Economy sector presents a range of opportunities for business investment, growth and reshoring. Key drivers include:"
+  heading: "Lincolnshire’s Visitor Economy Growth"
+  lead: >-
+        Recent growth in Lincolnshire’s visitor economy has reflected the attractiveness of the region’s offer.
+
+        
+        The rising popularity of domestic tourism among UK residents presents investment and growth opportunities for businesses across the sector.
+
+
   benefits:
-   - benefit: "67.7 million UK consumers"
-     feature: "spending £254 billion annually on food and drink"
-   - benefit: "Reduced integration"
-     feature: "with EU supply chains (post-Brexit)"
-   - benefit: "Renewed focus on food security"
-     feature: "(post-Covid-19 and recent conflicts)"
-   - benefit: "Plans for sustainable, net-zero carbon food chains"
-     feature: ""
-   - benefit: "Productivity goals and workforce constraints"
-     feature: " (a global Visitor Economy industry challenge) driving demand for new technologies"
-   - benefit: "Growing UK demand"
-     feature: "for added-value premium and niche products such as vegan, organic, more nutritious and ‘free-from’ foods" 
+   - benefit: ""
+     feature: "Prior to the coronavirus pandemic, Lincolnshire’s visitor economy saw a sustained period of growth - increasing in value by a third between 2012 and 2017."
+   - benefit: ""
+     feature: "Between 2018 and 2019, significant increases were recorded in visitor days, overall visitor numbers, visitor expenditure, and the sector’s overall economic impact."
+   - benefit: ""
+     feature: "By 2021, Lincolnshire’s visitor economy was recovering from the pandemic. UK domestic tourism is projected to return to pre-pandemic levels in 2023, presenting an opportunity for the sector in Lincolnshire to revert to the robust growth of the pre-pandemic period."
   statsimage:
      display: false
      img: 
@@ -78,22 +78,10 @@ marketopportunity:
      measure: million 2019
      clrscheme: dark
      textcolor:  sector-light     
-  ctatext: about the Lincolnshire Visitor Economy market opportunity
+  ctatext: about Lincolnshire's visitor economy growth
 offerfeatures:
   display: true
   features:
-   - heading: Lincolnshire’s Visitor Economy Growth
-     image: visitor-economy-1.jpg
-     lead: >-
-          Recent growth in Lincolnshire’s visitor economy has reflected the attractiveness of the region’s offer and the rising popularity of domestic tourism among UK residents - presenting investment and growth opportunities for businesses across the sector.
-     body: >-
-           - Prior to the coronavirus pandemic, Lincolnshire’s visitor economy saw a sustained period of growth - increasing in value by a third between 2012 and 2017.
-           
-           - Between 2018 and 2019, significant increases were recorded in visitor days, overall visitor numbers, visitor expenditure, and the sector’s overall economic impact. 
-           
-           - By 2021, Lincolnshire’s visitor economy was recovering from the pandemic. UK domestic tourism is projected to return to pre-pandemic levels in 2023, presenting an opportunity for the sector in Lincolnshire to revert to the robust growth of the pre-pandemic period.
-     ctatext: about Lincolnshire's visitor economy growth  
-
    - heading: Great Britain’s Growing Domestic Tourism Market
      image: visitor-economy-2.jpg
      lead: >-
@@ -175,7 +163,7 @@ offerfeatures:
            - **By rail:** Lincolnshire is easily accessible from the UK’s major population centres. Lincoln can be reached within 2 hours from London, and within 2 ¼ hours from Manchester.
 
            - **By air:** Lincolnshire is accessible within 2 hours from airports including East Midlands, Birmingham and Leeds-Bradford. Within Lincolnshire, Humberside Airport’s Amsterdam Schiphol hub-feeder service enables access from hundreds of global destinations. 
-
+     ctatext: about Lincolnshire's location & transport connectivity
 NOT-companylogos:
   display: true
   heading: Home to Leading Visitor Economy Businesses
