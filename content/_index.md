@@ -41,7 +41,7 @@ investmentopportunity:
      title: 'Dedicated Support'
      description: 'Dedicated support for investing businesses'    
              
-NOT-marketopportunity:
+marketopportunity:
   display: true
   heading: "The UK Visitor Economy Market Opportunity"
   lead: "The UK’s Visitor Economy sector presents a range of opportunities for business investment, growth and reshoring. Key drivers include:"
@@ -62,20 +62,20 @@ NOT-marketopportunity:
      display: false
      img: 
   stats: 
-   - name: UK Consumers
-     size: 67.7
-     measure: million
+   - name: Visitor Days
+     size: 50
+     measure: million 2019
      clrscheme: light
      textcolor: sector-dark
 
-   - name: UK Market Value
-     size: £254
-     measure: billion P.A.
+   - name: Visitor Numbers
+     size: 35
+     measure: million 2019
      clrscheme: mid
      textcolor: white
-   - name: UK Market Growth
-     size: +37%
-     measure: 2010-2019
+   - name: Economic Impact
+     size: £730
+     measure: million 2019
      clrscheme: dark
      textcolor:  sector-light     
   ctatext: about the Lincolnshire Visitor Economy market opportunity
@@ -106,7 +106,7 @@ offerfeatures:
      ctatext: about Great Britain’s growing domestic tourism market 
 
    - heading: Lincolnshire - A Rising Challenger Destination
-     image: visitor-economy-6.jpg
+     image: visitor-economy-3.jpg
      lead: >-
            Lincolnshire is a rising challenger destination in Great Britain’s visitor economy. The area’s powerful visitor proposition aligns closely with key growth segments, creating profitable opportunities for companies across the sector.
      body: >-
@@ -151,7 +151,7 @@ offerfeatures:
      ctatext: about Lincolnshire’s visitor economy strategy for growth      
 
    - heading: Opportunities for Investors in Lincolnshire's Visitor Economy
-     image: visitor-economy-3.jpg
+     image: visitor-economy-6.jpg
      lead: >-
            For investing visitor economy businesses, Lincolnshire presents profitable growth opportunities across a range of areas including hotels, pubs, other accommodation, attractions, and services.
      body: >-
@@ -217,7 +217,7 @@ support:
   image: red-grad
 
 articles:
-  display: true
+  display: false
   heading: Articles for Visitor Economy in Lincolnshire
 sectorCTA:
   display: true
