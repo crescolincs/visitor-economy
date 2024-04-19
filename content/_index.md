@@ -85,23 +85,23 @@ offerfeatures:
    - heading: Lincolnshire’s Visitor Economy Growth
      image: visitor-economy-1.jpg
      lead: >-
-          Recent growth in Lincolnshire’s visitor economy has reflected the attractiveness of the region’s offer and the rising popularity of domestic tourism among UK residents, presenting investment and growth opportunities for businesses across the sector.
+          Recent growth in Lincolnshire’s visitor economy has reflected the attractiveness of the region’s offer and the rising popularity of domestic tourism among UK residents - presenting investment and growth opportunities for businesses across the sector.
      body: >-
-           - Prior to the coronavirus pandemic, Lincolnshire’s visitor economy experienced a sustained period of significant growth - increasing in value by a third between 2012 and 2017.
+           - Prior to the coronavirus pandemic, Lincolnshire’s visitor economy saw a sustained period of growth - increasing in value by a third between 2012 and 2017.
            
-           - Between 2018 and 2019, notable increases were recorded in visitor days (exceeding 50 million in 2019), overall visitor numbers (exceeding 35 million in 2019), visitor expenditure, and the sector’s overall economic impact (reaching £730 million in 2019). 
+           - Between 2018 and 2019, significant increases were recorded in visitor days, overall visitor numbers, visitor expenditure, and the sector’s overall economic impact. 
            
-           - By 2021, Lincolnshire’s visitor economy had bounced back strongly from the pandemic, although performance remained behind 2019. UK domestic tourism is projected to return to pre-pandemic levels in 2023, presenting an opportunity for the sector in Lincolnshire to revert to the robust growth of the pre-pandemic period.
-     ctatext: about Lincolnshire's Visitor Economy growth  
+           - By 2021, Lincolnshire’s visitor economy was recovering from the pandemic. UK domestic tourism is projected to return to pre-pandemic levels in 2023, presenting an opportunity for the sector in Lincolnshire to revert to the robust growth of the pre-pandemic period.
+     ctatext: about Lincolnshire's visitor economy growth  
 
    - heading: Great Britain’s Growing Domestic Tourism Market
      image: visitor-economy-2.jpg
      lead: >-
            In the immediate pre-pandemic period, Great Britain’s (GB) domestic tourism sector saw growth across categories including overnight trips, holidays, VFR (visiting friends and relatives), and business.
      body: >-
-           - Between 2018 and 2019, notable increases were recorded in GB overnight trips and expenditure; GB holiday trips; VFR trips, bednights and expenditure; and GB business trips expenditure. 
+           - Between 2018 and 2019, notable increases were recorded in GB overnight trips and expenditure; GB holiday trips; VFR trips, bednights and expenditure; and GB business trips expenditure.  
   
-           - Although the coronavirus pandemic impacted Great Britain’s tourism sector significantly, these positive prior trends, in combination with the pandemic’s positive effect on the ‘staycation’ market, provide a solid basis for post-pandemic growth
+           - Although the coronavirus pandemic impacted Great Britain’s tourism sector significantly, these positive prior trends, combined with the pandemic’s positive effect on the ‘staycation’ market, provide a solid basis for post-pandemic growth.
 
      ctatext: about Great Britain’s growing domestic tourism market 
 
@@ -110,9 +110,9 @@ offerfeatures:
      lead: >-
            Lincolnshire is a rising challenger destination in Great Britain’s visitor economy. The area’s powerful visitor proposition aligns closely with key growth segments, creating profitable opportunities for companies across the sector.
      body: >-
-           - While having a successful visitor economy and an attractive destination offer, Lincolnshire (along with the wider East Midlands region) currently achieves lower visitor spend than key competitor English regions with historically stronger tourism profiles. 
+           - While having a successful visitor economy and an attractive destination offer, Lincolnshire currently achieves lower visitor spend than key competitor English regions with historically stronger tourism profiles. 
   
-           - However, Lincolnshire is a rising destination with a powerful ‘City, Coast and Countryside’ proposition that aligns closely with key growth areas. These include the ‘empty nester’ and ‘older independent’ visitor segments, and holiday types including overnight/short stay, coastal/seaside, walking/hiking, countryside/village and smaller cities/towns.
+           - However, Lincolnshire’s powerful ‘City, Coast and Countryside’ visitor proposition aligns closely with key growth visitor segments and holiday types.
 
            - Lincolnshire’s visitor proposition is further enhanced by significant cost advantages versus key competitor locations. According to 2022 research, Lincolnshire is the UK’s second most affordable visitor destination.
 
@@ -121,30 +121,30 @@ offerfeatures:
    - heading: Lincolnshire’s Visitor Economy Growth Drivers
      image: visitor-economy-4.jpg
      lead: >-
-           Multiple factors are driving the growth of Lincolnshire’s visitor economy, including major investments in attractions and infrastructure; strategic government funding and support; a diverse events programme; and the area’s thriving education and industrial sectors.
+           Multiple factors are driving Lincolnshire’s visitor economy growth, including large-scale investments, government funding, a diverse events programme; and the area’s thriving education and industrial sectors.
      body: >-
-           - Recent years have seen multi-million pound investments in Lincolnshire’s leading visitor attractions, with more than £50 million spent on Lincoln Cathedral, The International Bomber Command Centre, The North Sea Observatory, and Lincoln Castle alone. 
+           - Recent years have seen multi-million pound investments in Lincolnshire’s visitor economy, with more than £50 million spent on four leading attractions alone. 
   
-           - Key infrastructure investments include the England Coast Path in Lincolnshire. The completion of new sections, planned for 2023-24, is projected to boost visitor numbers - to walk, cycle or ride the trail - benefiting businesses across the visitor economy.
+           - Key infrastructure investments, including the England Coast Path in Lincolnshire, are projected to boost visitor numbers and benefit businesses across the sector.
 
-           - Lincolnshire has recently secured substantial new funding from the UK Government for projects that will boost the visitor economy, in areas including business capital investment, sustainable transport, heritage, urban regeneration and digital infrastructure.
+           - Lincolnshire has recently secured substantial new Government funding, for business investment, sustainable transport, heritage, urban regeneration and digital infrastructure.
 
            - Lincolnshire benefits from a diverse, year-round events programme, catering to a broad range of visitor demographics.
 
-           - The fast-growing University of Lincoln, and booming regional industries including low carbon energy, agrifood and defence, are further benefiting Lincolnshire’s visitor economy.
+           - The fast-growing University of Lincoln, and booming regional industries are further benefiting Lincolnshire’s visitor economy.
 
      ctatext: about Lincolnshire’s visitor economy growth drivers 
      
    - heading: Lincolnshire’s Visitor Economy Strategy - Supporting Sector Growth
      image: visitor-economy-5.jpg
      lead: >-
-           Greater Lincolnshire’s regional, local government and tourism sector organisations are working as an integrated team to grow visitor numbers and create a profitable, low-risk environment for investing businesses.
+           Lincolnshire’s regional, local government and tourism sector organisations are working as an integrated team to grow visitor numbers and create a profitable, low-risk environment for investing businesses.
      body: >-
-           - **A Comprehensive Tourism Action Plan:** a five-year strategy for visitor economy growth, with a vision for developing Lincolnshire as a nationally and internationally important tourism destination, by supporting and developing local businesses and encouraging visitor spend. 
+           - **A Comprehensive Tourism Action Plan:** with a vision to develop Lincolnshire as a nationally and internationally important tourism destination. 
   
-           - **Strategic Themes:** to make Lincolnshire an exemplar of sustainable tourism; to extend the tourism season; to enhance the visitor offer for a wider range of audiences; to improve sector business productivity; and to improve local infrastructure. 
+           - **Strategic Themes:** to exemplify sustainable tourism; extend the tourism season; enhance the visitor offer; improve business productivity; and improve local infrastructure. 
 
-           - **Delivery Tools:** developing and delivering a comprehensive sector skills training programme; creating a coordinated, networked marketing offer; coordinating survey information to develop an area-wide customer insight programme; maximising partnership working; and improving support for local businesses.
+           - **Delivery Tools:** including a comprehensive sector skills programme; a coordinated, networked marketing offer; an area-wide customer insight programme; maximised partnership working; and improved support for local businesses.
 
            - **Focused Market Positioning:** aligning the area’s distinctive strengths with high-growth visitor segments and holiday types, and projected key trends.
 
@@ -155,27 +155,26 @@ offerfeatures:
      lead: >-
            For investing visitor economy businesses, Lincolnshire presents profitable growth opportunities across a range of areas including hotels, pubs, other accommodation, attractions, and services.
      body: >-
-           - **Hotels:** Based on growing demand for hotel accommodation and a more diverse hotel offer, identified investment opportunities include 4-star and boutique hotels, upper-tier budget hotels, and hotels in historic market towns. 2022 research showed a strong, post-pandemic bounce back in hotel occupancy rates and revenue per room.  
+           - **Hotels:** Based on growing demand for a more diverse hotel offer, and research showing a strong, post-pandemic bounce back in hotel occupancy rates and revenue per room.   
   
-           - **Pubs:** Identified investment opportunities include: development of bedroom accommodation; upgrading of existing characterful pubs; refurbishment of existing properties; development of gastropubs with boutique bedrooms; development of new-build pubs with budget bedrooms; and provision of non-serviced accommodation at rural pubs. 
+           - **Pubs:** Based on identified demand in areas including new-build, refurbished and upgraded pubs, accommodation, and gastropubs, across a range of price points. 
 
-           - **Short-term Holiday Rentals:** 2018 Airbnb research identified the East Midlands (which includes Lincolnshire) as the 2nd fastest growing UK destination for guests using Airbnb. The data presents a clear case for investment in Lincoln - a leading historic city destination with significant demand, constrained supply and strong revenues.
+           - **Short-term Holiday Rentals:** Recent Airbnb research identifies Lincolnshire as part of a high-growth region, and presents a clear case for investment in Lincoln.
 
-           - **Sites for Major Visitor Economy Investments:** With large, cost-competitive sites, easy access to major population centres, and a growing tourism industry, Lincolnshire presents an attractive opportunity for businesses investing in major visitor attractions.
+           - **Sites for Major Visitor Attractions:** Large, accessible, cost-competitive sites and Lincolnshire’s growing tourism sector present opportunities for major investments.
 
-           - **Restaurants and Cafes:** With significant ongoing, strategic investment in market towns, infrastructure and visitor attractions, Lincolnshire presents opportunities for businesses to invest in restaurants and cafes across the area.
+           - **Restaurants and Cafes:** Strategic investments in destinations, infrastructure and visitor attractions are creating investment opportunities in Lincolnshire’s hospitality sector.
      ctatext: about visitor economy investment opportunities in Lincolnshire 
    - heading: Lincolnshire’s Location & Transport Connectivity
      image: visitor-economy-7.jpg
      lead: >-
-           Greater Lincolnshire benefits from a central England location and excellent transport connectivity, making it easily accessible from England’s major population centres.
+           Lincolnshire benefits from a central England location (north-south) and excellent transport links, making it easily accessible from England’s major population centres.
      body: >-
-           - **By road:** Lincolnshire can be reached within 2 1⁄2 hours from the major population centres of the Midlands and North of England, and within 2 3⁄4 hours from London. More than 75% of the UK’s population can reach the area within around 3 1⁄2 hours.  
+           - **By road:** Lincolnshire can be reached within 2 1⁄2 hours from the major population centres of the Midlands and North of England, and within 2 3⁄4 hours from London.  
   
            - **By rail:** Lincolnshire is easily accessible from the UK’s major population centres. Lincoln can be reached within 2 hours from London, and within 2 ¼ hours from Manchester.
 
-           - **By air:** within Lincolnshire, Humberside Airport (HUY) offers frequent ‘hub-feeder’ services from/to Amsterdam Schiphol (AMS), with connections from/to 800 global destinations. Airports accessible within 2 hours’ drive time include East Midlands (EMA), Birmingham (BHX), and Leeds-Bradford (LBA).
-     ctatext: about Lincolnshire’s location and transport connectivity 
+           - **By air:** Lincolnshire is accessible within 2 hours from airports including East Midlands, Birmingham and Leeds-Bradford. Within Lincolnshire, Humberside Airport’s Amsterdam Schiphol hub-feeder service enables access from hundreds of global destinations. 
 
 NOT-companylogos:
   display: true
