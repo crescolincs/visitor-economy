@@ -231,6 +231,8 @@ sectorCTA:
   hiddenformfields:
      - field: brochure
        value: visitor-economy
+     - field: page
+       value: visitor-economy       
      - field: cc
        value: dklongley@clarity-strategies   
   footerimg: red-half-grad.png 
