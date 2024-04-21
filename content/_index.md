@@ -227,6 +227,12 @@ sectorCTA:
     - highlight: UK and global market access
     - highlight: Support for investing businesses
   contentscolour: 'text-white'
+  formhandler: brochurerequest
+  hiddenformfields:
+     - field: brochure
+       value: visitor-economy
+     - field: cc
+       value: dklongley@clarity-strategies   
   footerimg: red-half-grad.png 
 ---
 
