@@ -230,7 +230,7 @@ sectorCTA:
   formhandler: brochurerequest
   hiddenformfields:
      - field: brochure
-       value: visitor-economy
+       value: invest-lincs-visitor-economy
      - field: page
        value: visitor-economy       
      - field: cc
