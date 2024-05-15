@@ -1,0 +1,14 @@
+languageCode = 'en-uk'
+title = 'Invest in UK Visitor Economy, Greater Lincolnshire provides Visitor Economy businesses with direct access to high-growth market opportunities, combined uniquely with world-class digitalisation and automation solutions.'
+
+[params]
+  contactdomain = 'https://investlincolnshire.co.uk/'
+  imagedomain = 'https://res.cloudinary.com/lincs/image/upload/q_auto,f_auto/'
+
+[module]
+  [[module.imports]]
+    path = "github.com/crescolincs/lincs-theme"
+
+#Update hugo modules (in our case the theme)$> hugo mod get -u 
+
+#dev site https://dev.robotics-8an.pages.dev
