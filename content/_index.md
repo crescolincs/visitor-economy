@@ -64,18 +64,21 @@ marketopportunity:
   stats: 
    - name: Visitor Days
      size: 50
-     measure: million 2019
+     measure: million
+     when: 2019
      clrscheme: light
      textcolor: sector-dark
 
    - name: Visitor Numbers
-     size: 35
-     measure: million 2019
+     size: 35    
+     measure: million
+     when: 2019     
      clrscheme: mid
      textcolor: white
    - name: Economic Impact
      size: £730
-     measure: million 2019
+     measure: million
+     when: 2019     
      clrscheme: dark
      textcolor:  sector-light     
   ctatext: about Lincolnshire's visitor economy growth
