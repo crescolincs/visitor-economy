@@ -1,5 +1,6 @@
 languageCode = 'en-uk'
 title = 'Invest in UK Visitor Economy, Greater Lincolnshire provides Visitor Economy businesses with direct access to high-growth market opportunities, combined uniquely with world-class digitalisation and automation solutions.'
+baseURL = 'https://visitor-economy.investlincolnshire.co.uk/'
 
 [params]
   contactdomain = 'https://investlincolnshire.co.uk/'
