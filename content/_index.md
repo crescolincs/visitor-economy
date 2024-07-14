@@ -63,22 +63,22 @@ marketopportunity:
      img: 
   stats: 
    - name: Visitor Days
-     size: 50
+     size: "50"
      measure: million
-     when: 2019
+     when: "2019"
      clrscheme: light
      textcolor: sector-dark
 
    - name: Visitor Numbers
-     size: 35    
+     size: "35"    
      measure: million
-     when: 2019     
+     when: "2019"     
      clrscheme: mid
      textcolor: white
    - name: Economic Impact
-     size: £730
+     size: "£730"
      measure: million
-     when: 2019     
+     when: "2019"     
      clrscheme: dark
      textcolor:  sector-light     
   ctatext: about Lincolnshire's visitor economy growth
@@ -167,36 +167,6 @@ offerfeatures:
 
            - **By air:** Lincolnshire is accessible within 2 hours from airports including East Midlands, Birmingham and Leeds-Bradford. Within Lincolnshire, Humberside Airport’s Amsterdam Schiphol hub-feeder service enables access from hundreds of global destinations. 
      ctatext: about Lincolnshire's location & transport connectivity
-NOT-companylogos:
-  display: true
-  heading: Home to Leading Visitor Economy Businesses
-  subheading: Businesses established in Lincolnshire’s Visitor Economy sector include
-  scrollbarclr: '#90a6ca'
-  companies:
-   - name: BA Systems
-     logo: bae-systems-logo.png
-   - name: Collins Aerospace
-     logo: collins-logo.png
-   - name: Siemens
-     logo: siemens-logo.png
-   - name: BA Systems
-     logo: bae-systems-logo.png
-   - name: Collins Aerospace
-     logo: collins-logo.png
-   - name: Siemens
-     logo: siemens-logo.png
-   - name: BA Systems
-     logo: bae-systems-logo.png
-   - name: Collins Aerospace
-     logo: collins-logo.png
-   - name: Siemens
-     logo: siemens-logo.png
-   - name: BA Systems
-     logo: bae-systems-logo.png
-   - name: Collins Aerospace
-     logo: collins-logo.png
-   - name: Siemens
-     logo: siemens-logo.png 
 
 support:
   display: true
