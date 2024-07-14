@@ -1,6 +1,6 @@
 ---
 title: "Invest in Lincolnshire's Visitor Economy: Key Benefits and Opportunities"
-socialImage: 'visitor-economy-header.png'
+socialimage: https://res.cloudinary.com/lincs/image/upload/'https://res.cloudinary.com/lincs/image/upload/visitor-economy-header.png'
 sector: visitor-economy
 seoDescription: >-
               Lincolnshire is a thriving UK tourism destination with a vibrant visitor economy. The region’s offer aligns strongly with key current UK tourism trends, presenting high-value investment opportunities for businesses across the sector.
@@ -19,25 +19,25 @@ investmentopportunity:
   heading: 'The Lincolnshire Visitor Economy Investment Opportunity'
   subheading: 'For investing Visitor Economy businesses, Lincolnshire offers:'
   offer:
-   - icon: 'market.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/market.svg'
      title: 'Market Growth'
      description: 'Identified growth potential in the Lincolnshire and UK visitor economies.' 
-   - icon: 'connectivity.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/connectivity.svg'
      title: 'Transport Connectivity'
      description: 'Easily accessible from major population centres'
-   - icon: 'destination-icon.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/destination-icon.svg'
      title: 'Challenger Destination'
      description: 'A powerful visitor proposition aligned closely with key growth segments.'           
-   - icon: 'cost-icon.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/cost-icon.svg'
      title: 'Cost Advantages'
      description: 'Significant cost advantages versus key competitor locations.'
-   - icon: 'tourism-icon.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/tourism-icon.svg'
      title: 'Visitor Economy Strategy'
      description: 'A comprehensive plan to develop Lincolnshire as a leading tourism destination.'
-   - icon: 'investor-icon.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/investor-icon.svg'
      title: 'Investor Opportunities'
      description: 'Profitable investment opportunities in areas including hotels, pubs, holiday rentals, major attractions, restaurants and cafes.'
-   - icon: 'support-icon.svg'
+   - icon: 'https://res.cloudinary.com/lincs/image/upload/support-icon.svg'
      title: 'Dedicated Support'
      description: 'Dedicated support for investing businesses'    
              
@@ -86,7 +86,7 @@ offerfeatures:
   display: true
   features:
    - heading: Great Britain’s Growing Domestic Tourism Market
-     image: visitor-economy-2.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/visitor-economy-2.jpg
      lead: >-
            In the immediate pre-pandemic period, Great Britain’s (GB) domestic tourism sector saw growth across categories including overnight trips, holidays, VFR (visiting friends and relatives), and business.
      body: >-
@@ -97,7 +97,7 @@ offerfeatures:
      ctatext: about Great Britain’s growing domestic tourism market 
 
    - heading: Lincolnshire - A Rising Challenger Destination
-     image: visitor-economy-3.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/visitor-economy-3.jpg
      lead: >-
            Lincolnshire is a rising challenger destination in Great Britain’s visitor economy. The area’s powerful visitor proposition aligns closely with key growth segments, creating profitable opportunities for companies across the sector.
      body: >-
@@ -110,7 +110,7 @@ offerfeatures:
      ctatext: about Lincolnshire - a rising visitor destination 
 
    - heading: Lincolnshire’s Visitor Economy Growth Drivers
-     image: visitor-economy-4.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/visitor-economy-4.jpg
      lead: >-
            Multiple factors are driving Lincolnshire’s visitor economy growth, including large-scale investments, government funding, a diverse events programme, and the area’s thriving education and industrial sectors.
      body: >-
@@ -127,7 +127,7 @@ offerfeatures:
      ctatext: about Lincolnshire’s visitor economy growth drivers 
      
    - heading: Lincolnshire’s Visitor Economy Strategy - Supporting Sector Growth
-     image: visitor-economy-5.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/visitor-economy-5.jpg
      lead: >-
            Lincolnshire’s regional, local government and tourism sector organisations are working as an integrated team to grow visitor numbers and create a profitable, low-risk environment for investing businesses.
      body: >-
@@ -142,7 +142,7 @@ offerfeatures:
      ctatext: about Lincolnshire’s visitor economy strategy for growth      
 
    - heading: Opportunities for Investors in Lincolnshire's Visitor Economy
-     image: visitor-economy-6.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/visitor-economy-6.jpg
      lead: >-
            For investing visitor economy businesses, Lincolnshire presents profitable growth opportunities across a range of areas including hotels, pubs, other accommodation, attractions, and services.
      body: >-
@@ -157,7 +157,7 @@ offerfeatures:
            - **Restaurants and Cafes:** Strategic investments in destinations, infrastructure and visitor attractions are creating investment opportunities in Lincolnshire’s hospitality sector.
      ctatext: about visitor economy investment opportunities in Lincolnshire 
    - heading: Lincolnshire’s Location & Transport Connectivity
-     image: visitor-economy-7.jpg
+     image: https://res.cloudinary.com/lincs/image/upload/visitor-economy-7.jpg
      lead: >-
            Lincolnshire benefits from a central England location (north-south) and excellent transport links, making it easily accessible from England’s major population centres.
      body: >-
@@ -204,7 +204,7 @@ support:
   lead: >-
       Working together, Invest Lincolnshire and our partner organisations, including local authorities, education providers and businesses, provide dedicated support to ensure a ‘soft landing’ for companies locating and investing in Lincolnshire.
   ctatext: about support for investing businesses from Invest Lincolnshire
-  image: red-grad
+  image: https://res.cloudinary.com/lincs/image/upload/red-grad
 
 articles:
   display: false
@@ -215,7 +215,7 @@ sectorCTA:
   headingcolor: light
   buttoncolor: '#e75a13'
   buttonhover: '#af0000'
-  image: visitor-economy-brochure.png
+  image: https://res.cloudinary.com/lincs/image/upload/visitor-economy-brochure.png
   heading: Get the Data on Lincolnshire as a Visitor Economy Business Location
   lead: >-
      Lincolnshire’s Visitor Economy sector Business Location Guide provides essential information and data for companies researching and evaluation Lincolnshire as a potential investment location, including:                                       
