@@ -1,6 +1,6 @@
 ---
 title: "Invest in Lincolnshire's Visitor Economy: Key Benefits and Opportunities"
-socialimage: https://res.cloudinary.com/lincs/image/upload/'https://res.cloudinary.com/lincs/image/upload/visitor-economy-header.png'
+socialimage: 'https://res.cloudinary.com/lincs/image/upload/visitor-economy-header.png'
 sector: visitor-economy
 seoDescription: >-
               Lincolnshire is a thriving UK tourism destination with a vibrant visitor economy. The region’s offer aligns strongly with key current UK tourism trends, presenting high-value investment opportunities for businesses across the sector.
@@ -12,7 +12,7 @@ hero:
   heading: "Invest in Lincolnshire's Visitor Economy: Key Benefits and Opportunities"
   blurb: >-
         Lincolnshire is a thriving UK tourism destination with a vibrant visitor economy. The region’s offer aligns strongly with key current UK tourism trends, presenting high-value investment opportunities for businesses across the sector.
-  heroImg: 'visitor-economy-header.png'
+  heroImg: 'https://res.cloudinary.com/lincs/image/upload/visitor-economy-header.png'
 
 investmentopportunity:
   display: true
@@ -208,6 +208,6 @@ sectorCTA:
        value: visitor-economy       
      - field: cc
        value: dklongley@clarity-strategies   
-  footerimg: red-half-grad.png 
+  footerimg: https://res.cloudinary.com/lincs/image/upload/red-half-grad.png 
 ---
 
