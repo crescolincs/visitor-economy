@@ -3,7 +3,8 @@ title = 'Invest in UK Visitor Economy, Greater Lincolnshire provides Visitor Eco
 
 [params]
   contactdomain = 'https://investlincolnshire.co.uk/'
-  imagedomain = 'https://res.cloudinary.com/lincs/image/upload/q_auto,f_auto/'
+  image_q_f = 'q_auto,f_auto/'
+  imagedomain = 'https://res.cloudinary.com/lincs/image/upload/'
 
 [module]
   [[module.imports]]

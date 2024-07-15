@@ -78,7 +78,7 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Heading", name: "heading", widget: "string", required: false},
               {label: "Subheading", name: "lead", widget: "string", required: false },
               {label: "The Benefits", name: "benefits", widget: "list", fields: [
-                  {label: "Benefit", name: "benefit", widget: "string", required: false  },
+                  {label: "Benefit", name: "benefit", widget: "string", required: false },
                   {label: "Feature", name: "feature", widget: "string", required: false }]},
               {label: "Statistics", name: "stats", widget: "list", fields: [
                 {label: "Name", name: "name", widget: "string", required: false},
