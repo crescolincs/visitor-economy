@@ -4,6 +4,7 @@ backend:
   branch: main
   base_url: https://smc.agrifood.pages.dev #url for Oauth app on Github Developer settings
   auth_endpoint: /api/auth
+  show_preview_links: true  
 media_library:
   name: cloudinary
   config:
@@ -27,7 +28,9 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     fields: # all The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Sector", name: "sector", widget: "hidden", default: "visitor-economy"}      
+      - {label: "Publish Date", name: "date", widget: "datetime", default: "{{now}}"}
+      - {label: "Content Type", name: "type", widget: "hidden", default: article}      
       - {label: "Intro Blurb", name: "description", widget: "text", required: false}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Hero BG Video", name: "herobgvideo", widget: "text", required: false}
@@ -42,7 +45,6 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Url", name: "url", widget: "string", required: false },
               {label: "Url Title", name: "urltitle", widget: "string", required: false }],required: false}
       - {label: "SEO Description", name: "SEODesc", widget: "text", required: false}                    
-      - {label: "Content Type", name: "type", widget: "hidden", default: article}
       - {label: "Layout Template", name: "layout", widget: "hidden", default: post} 
   - name: "pages"
     label: "Pages"
